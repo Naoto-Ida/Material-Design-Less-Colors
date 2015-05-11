@@ -1,6 +1,6 @@
 #Material Design Less Colors
 ##Description
-A LESS file with all colors from the [official Google Design Guidelines for Material Design](http://www.google.co.jp/design/spec/style/color.html#color-color-palette)(excluding black and white, because they are the standard #000 and #fff respectively).\n
+A LESS file with all colors from the [official Google Design Guidelines for Material Design](http://www.google.co.jp/design/spec/style/color.html#color-color-palette)(excluding black and white, because they are the standard #000 and #fff respectively).
 
 ##Naming scheme
 All variables in this file start with md(for material design), and continued with the official color name and shade, connected by an underscore.
