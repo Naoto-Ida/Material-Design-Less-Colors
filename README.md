@@ -16,7 +16,7 @@ Simply import the LESS file to your pre-existing LESS file by:
 Then, use the variables to set material design colors to your text, background, etc.
 ```
 p.red {
-	color: @md_red_300
+	color: @md_red_300;
 }
 ```
 
